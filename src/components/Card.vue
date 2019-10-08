@@ -2,7 +2,7 @@
   <div>
     <div class="title">
       <slot name="title"></slot>
-      <span>
+      <span style="color: #ccc">
 <!--        slot have value default which is slot default-->
         <slot name="subTitles">The SubTitles</slot>
       </span>
